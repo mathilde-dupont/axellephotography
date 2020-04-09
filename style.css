@@ -82,11 +82,11 @@ h3 {
   background-image: url('images/wedding.png');
 }
 
-#portraitphoto{
+#portraitphoto {
   background-image: url('images/portrait.png');
 }
 
-#maternityphoto{
+#maternityphoto {
   background-image: url('images/baby.png');
 }
 
@@ -94,7 +94,7 @@ h3 {
   text-align: justify;
 }
 
-#aboutmephoto{
+#aboutmephoto {
   background-image: url('images/axelle.png');
   height: 200px;
   width: 200px;
